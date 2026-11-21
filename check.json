@@ -1,0 +1,11 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "mean": 1.75,
+    "lower": 1.0,
+    "upper": 2.5
+  }
+}
